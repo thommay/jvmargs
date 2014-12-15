@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.description = 'Sanity check command-line arguments to the JVM'
   s.summary = "jvmargs-#{s.version}"
   s.authors = ['Bryan W. Berry', 'Thom May']
-  s.homepage = 'https://github.com/bryanwb/jvmargs'
+  s.homepage = 'https://github.com/thommay/jvmargs'
   s.license = 'Apache2'
   s.require_path = 'lib'
   s.files = Dir['lib/**/*.rb']
