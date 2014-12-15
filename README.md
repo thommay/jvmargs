@@ -1,6 +1,9 @@
 jvmargs
 =======
 
+[![Build
+Status](https://travis-ci.org/thommay/jvmargs.svg?branch=master)](https://travis-ci.org/thommay/jvmargs)
+
 A painless parser of java command-line arguments
 
 Managing Java command-line arguments is a pain in the ass. I have
