@@ -163,6 +163,7 @@ java_opts.newgen("32M")
 
 - Author::                Bryan W. Berry (<bryan.berry@gmail.com>)
 - Author::                Xabier de Zuazo (<xabier@onddo.com>)  
+- Author::                Thom May (<thom@may.lt>)
 - Copyright::             2013, Bryan W. Berry
 
 

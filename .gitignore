@@ -2,6 +2,7 @@ Gemfile.lock
 gemfiles/*.lock
 *.gem
 *.rbc
+.rake_tasks~
 .bundle
 .config
 coverage
