@@ -6,3 +6,4 @@ script: bundle exec rake spec
 gemfile:
   - Gemfile
   - gemfiles/chef-11.gemfile
+  - gemfiles/chef-12.gemfile
